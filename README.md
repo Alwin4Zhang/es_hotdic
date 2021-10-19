@@ -255,14 +255,17 @@ API response:
 
 - **Dynamic Synonym for ElasticSearch**
 
-[Vesion]
-| master | 7.x -> master |
-| 6.1.4 | 6.1.4 |
-| 5.2.0 | 5.2.0 |
-| 5.1.1 | 5.1.1 |
-| 2.2.0 | 2.2.0 |
-| 2.1.0 | 2.1.0 |
-| 1.6.0 | 1.6.0 |
+[Vesion]  
+
+|  dynamic synonym version   | ES version  |
+|  ----  | ----  |
+| master  | 7.x -> master |
+| 6.1.4  | 6.1.4 |
+| 5.2.0 | 5.2.0 |  
+| 5.1.1 | 5.1.1 |  
+| 2.2.0 | 2.2.0 |  
+| 2.1.0 | 2.1.0 |  
+| 1.6.0 | 1.6.0 |   
 
 - **Installation**
 
