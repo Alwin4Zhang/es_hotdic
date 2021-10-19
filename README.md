@@ -8,7 +8,7 @@ Tags: Elasticsearch
 
 系统:Macos Catalina:10.15.7
 
-CPU:Intel Core i7-10750u
+CPU:Intel Core i7-10510u
 
 内存:16GB
 
