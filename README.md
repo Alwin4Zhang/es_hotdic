@@ -72,6 +72,11 @@ IKAnalyzer.cfg.xml
 ├── ext.dic
 ├── stop.dic
 └── synonyms.txt
+├── elasticsearch-analysis-dynamic-synonym-6.8.12.zip
+├── es_utils.py
+├── mysql_db.py
+├── requirements.txt
+└── tor_test.py
 ```
 
 - es_hotdic.py
