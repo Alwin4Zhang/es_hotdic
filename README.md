@@ -269,8 +269,10 @@ API response:
 
 - **Installation**
 
-**1.**mvn package
-**2.**copy and unzip target/releases/elasticsearch-analysis-dynamic-synonym-{version}.zip to your-es-root/plugins/dynamic-synonym
+**1.**mvn package  
+
+**2.**copy and unzip target/releases/elasticsearch-analysis-dynamic-synonym-{version}.zip to your-es-root/plugins/dynamic-synonym   
+
 
 项目用到的es版本是6.8.12，在已开源的插件版本中没有，在repo的issues中找到了最接近的[https://github.com/lxc-123/elasticsearch-analysis-dynamic-synonym-6.5.0](https://github.com/lxc-123/elasticsearch-analysis-dynamic-synonym-6.5.0)
 
